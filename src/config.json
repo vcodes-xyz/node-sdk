@@ -1,0 +1,8 @@
+{
+    "base": "localhost",
+    "hostname": "localhost/v1/gateway",
+    "protocol": {
+        "web": "http",
+        "websockets": "ws"
+    }
+}
