@@ -1,8 +1,8 @@
 {
-    "base": "localhost",
-    "hostname": "localhost/v1/gateway",
+    "base": "api.vcodes.xyz",
+    "hostname": "api.vcodes.xyz/v1/gateway",
     "protocol": {
-        "web": "http",
-        "websockets": "ws"
+        "web": "https",
+        "websockets": "wss"
     }
 }
